@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>id:		2</string>
+  <string>Imię i nazwisko:	Magda Nowak</string>
+  <string>Rok urodzenia:	11.06.2023 13:40:52</string>
+  <string>Wiek:		0</string>
+  <string>PESEL: 		21252363031</string>
+  <string>Adres:		Katowice ul.Piastowaska 2a</string>
+  <string />
+  <string>Data wizyty:	11.06.2023 13:40:52</string>
+  <string>Godzina: 		16:15</string>
+  <string>Zęby do leczenia: 		</string>
+  <string>Nr. Tel.:	503288797</string>
+  <string />
+  <string>Osoba upoważniona do informacji medycznych pacjenta:	</string>
+  <string>Imie i Nazwisko: 	Bartek Nowak</string>
+  <string>PESEL: 	12124545803</string>
+  <string />
+  <string>Zabieg: 	Lakierowanie</string>
+  <string>Refundowane: 	Leczenie nie jest refundowane</string>
+  <string>Opłata za zabieg: 	0 PLN</string>
+  <string />
+</ArrayOfString>
